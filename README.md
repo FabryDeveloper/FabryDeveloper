@@ -7,8 +7,8 @@ Hey there! I'm Fabrizio Sordetti, a Computer Science Engineer specialized in Art
 ## What I'm Working On
 
 - 🚀 Currently, I'm working on university projects.
-- 🌱 I'm continuously learning new tophics in the IT field.
-- 💡 I'm open to collaboration on innovative projects.
+- 🌱 I'm continuously learning new topics in the IT field.
+- 💡 I'm open to collaborations in innovative projects.
 
 ## Get in Touch
 
@@ -23,7 +23,7 @@ Hey there! I'm Fabrizio Sordetti, a Computer Science Engineer specialized in Art
 
 Here are some of the projects I'm proud of:
 
-- [Ecommerce](https://github.com/FabryDeveloper/Ecommerce.git): Project about IT for the Web (Polytechnic of Milan A.A 2022-2023.
+- [Ecommerce](https://github.com/FabryDeveloper/Ecommerce.git): Project about Web Technologies (Polytechnic of Milan A.A 2022-2023).
 - [Memory Switcher](https://github.com/FabryDeveloper/MemorySwitcher.git): Project about Logic Networks (Polytechnic of Milan A.A. 2022-2023).
 - [Word Checker](https://github.com/FabryDeveloper/WordChecker.git): Project about Algorithms and Data Stractures (Polytechnic of Milan A.A. 2021-2022).
 
