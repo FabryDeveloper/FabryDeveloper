@@ -22,8 +22,9 @@ Hey there! I'm Fabrizio Sordetti, a Computer Science Engineer specialized in Art
 ## Featured Repositories
 
 Here are some of the projects I'm proud of:
-
-- [Ecommerce](https://github.com/FabryDeveloper/Ecommerce.git): Project about Web Technologies (Polytechnic of Milan A.A 2022-2023).
+- [Music Genre Classification](https://github.com/manuu1311/Music_genre_classification): CNN for music genre classification (Polytechnic of Milan A.A. 2023-2024
+- [Code Kata Battle](https://github.com/manuu1311/CodeKataBattle): Formal analysis, requirements engineering and Design Document (Polytechnic of Milan A.A. 2023-2024)
+- [Ecommerce](https://github.com/FabryDeveloper/Ecommerce.git): Project about Web Technologies (Polytechnic of Milan A.A. 2022-2023).
 - [Memory Switcher](https://github.com/FabryDeveloper/MemorySwitcher.git): Project about Logic Networks (Polytechnic of Milan A.A. 2022-2023).
 - [Word Checker](https://github.com/FabryDeveloper/WordChecker.git): Project about Algorithms and Data Stractures (Polytechnic of Milan A.A. 2021-2022).
 
