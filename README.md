@@ -31,6 +31,6 @@ Here are some of the projects I'm proud of:
 ## Fun Facts
 
 - 🎮 I'm a VideoGamer.
-- 🌟 Fun fact: There are many other projects, which you cannot see 🙈, behind the scene ... coming 🔜
+- 🌟 Fun fact: There are many other projects, which you cannot see 🙈, they are behind the scene... and coming 🔜
 
 Thanks for visiting my GitHub profile! 😊
