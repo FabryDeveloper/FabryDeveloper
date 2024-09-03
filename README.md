@@ -15,10 +15,6 @@ Hey there! I'm Fabrizio Sordetti, a Computer Science Engineer specialized in Art
 - 📫 You can reach me via email.
 - 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/fabrizio-sordetti-8418b119b/edit/forms/contact-info/new/).
 
-## My GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=FabryDeveloper&show_icons=true&theme=dark)
-
 ## Featured Repositories
 
 Here are some of the projects I'm proud of:
@@ -27,6 +23,10 @@ Here are some of the projects I'm proud of:
 - [Ecommerce](https://github.com/FabryDeveloper/Ecommerce.git): Project about Web Technologies (Polytechnic of Milan A.A. 2022-2023).
 - [Memory Switcher](https://github.com/FabryDeveloper/MemorySwitcher.git): Project about Logic Networks (Polytechnic of Milan A.A. 2022-2023).
 - [Word Checker](https://github.com/FabryDeveloper/WordChecker.git): Project about Algorithms and Data Stractures (Polytechnic of Milan A.A. 2021-2022).
+
+## My GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=FabryDeveloper&show_icons=true&theme=dark)
 
 ## Fun Facts
 
