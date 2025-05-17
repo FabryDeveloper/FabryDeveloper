@@ -13,7 +13,7 @@ Hey there! I'm Fabrizio Sordetti, a Computer Science Engineer specialized in Art
 ## Get in Touch
 
 - 📫 You can reach me via email.
-- 💬 Let's connect on [LinkedIn](www.linkedin.com/in/fabrizio-sordetti).
+- 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/fabrizio-sordetti).
 
 ## Featured Repositories
 
